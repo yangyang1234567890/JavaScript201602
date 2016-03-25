@@ -1718,15 +1718,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l29:level1{
-mso-level-start-at:2;
 mso-level-number-format:decimal;
-mso-level-suffix:none;
-mso-level-text:"(%1)";
-mso-level-tab-stop:0.0000pt;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:39.0000pt;
 mso-level-number-position:left;
-margin-left:0.0000pt;text-indent:0.0000pt;margin-left:0.0000pt;
-text-indent:0.0000pt;
-font-family:'Times New Roman';}
+margin-left:39.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l29:level2{
 mso-level-number-format:decimal;
@@ -1793,14 +1790,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l30:level1{
-mso-level-number-format:decimal;
-mso-level-suffix:none;
-mso-level-text:"(%1)";
-mso-level-tab-stop:0.0000pt;
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:\F06C;
+mso-level-tab-stop:81.0000pt;
 mso-level-number-position:left;
-margin-left:0.0000pt;text-indent:0.0000pt;margin-left:0.0000pt;
-text-indent:0.0000pt;
-font-family:'Times New Roman';}
+margin-left:81.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l30:level2{
 mso-level-number-format:decimal;
@@ -1939,9 +1934,10 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l32:level1{
+mso-level-start-at:2;
 mso-level-number-format:decimal;
 mso-level-suffix:none;
-mso-level-text:"%1、";
+mso-level-text:"(%1)";
 mso-level-tab-stop:0.0000pt;
 mso-level-number-position:left;
 margin-left:0.0000pt;text-indent:0.0000pt;margin-left:0.0000pt;
@@ -2087,7 +2083,7 @@ margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 @list l34:level1{
 mso-level-number-format:decimal;
 mso-level-suffix:none;
-mso-level-text:"%1、";
+mso-level-text:"(%1)";
 mso-level-tab-stop:0.0000pt;
 mso-level-number-position:left;
 margin-left:0.0000pt;text-indent:0.0000pt;margin-left:0.0000pt;
@@ -2232,11 +2228,13 @@ margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l36:level1{
 mso-level-number-format:decimal;
-mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:18.0000pt;
+mso-level-suffix:none;
+mso-level-text:"%1、";
+mso-level-tab-stop:0.0000pt;
 mso-level-number-position:left;
-margin-left:18.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:0.0000pt;text-indent:0.0000pt;margin-left:0.0000pt;
+text-indent:0.0000pt;
+font-family:'Times New Roman';}
 
 @list l36:level2{
 mso-level-number-format:decimal;
@@ -2375,12 +2373,14 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l38:level1{
-mso-level-number-format:bullet;
-mso-level-suffix:tab;
-mso-level-text:\F06C;
-mso-level-tab-stop:18.0000pt;
+mso-level-number-format:decimal;
+mso-level-suffix:none;
+mso-level-text:"%1、";
+mso-level-tab-stop:0.0000pt;
 mso-level-number-position:left;
-margin-left:18.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+margin-left:0.0000pt;text-indent:0.0000pt;margin-left:0.0000pt;
+text-indent:0.0000pt;
+font-family:'Times New Roman';}
 
 @list l38:level2{
 mso-level-number-format:decimal;
@@ -2519,12 +2519,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l40:level1{
-mso-level-number-format:bullet;
+mso-level-number-format:decimal;
 mso-level-suffix:tab;
-mso-level-text:\F06C;
-mso-level-tab-stop:60.0000pt;
+mso-level-text:"%1.";
+mso-level-tab-stop:18.0000pt;
 mso-level-number-position:left;
-margin-left:60.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+margin-left:18.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l40:level2{
 mso-level-number-format:decimal;
@@ -2663,12 +2663,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l42:level1{
-mso-level-number-format:decimal;
+mso-level-number-format:bullet;
 mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:60.0000pt;
+mso-level-text:\F06C;
+mso-level-tab-stop:18.0000pt;
 mso-level-number-position:left;
-margin-left:60.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:18.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l42:level2{
 mso-level-number-format:decimal;
@@ -2882,9 +2882,9 @@ margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 mso-level-number-format:bullet;
 mso-level-suffix:tab;
 mso-level-text:\F06C;
-mso-level-tab-stop:39.0000pt;
+mso-level-tab-stop:60.0000pt;
 mso-level-number-position:left;
-margin-left:39.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+margin-left:60.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l45:level2{
 mso-level-number-format:decimal;
@@ -3023,12 +3023,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l47:level1{
-mso-level-number-format:bullet;
+mso-level-number-format:decimal;
 mso-level-suffix:tab;
-mso-level-text:\F06C;
-mso-level-tab-stop:102.0000pt;
+mso-level-text:"%1.";
+mso-level-tab-stop:60.0000pt;
 mso-level-number-position:left;
-margin-left:102.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+margin-left:60.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l47:level2{
 mso-level-number-format:decimal;
@@ -3098,9 +3098,9 @@ margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 mso-level-number-format:decimal;
 mso-level-suffix:tab;
 mso-level-text:"%1.";
-mso-level-tab-stop:81.0000pt;
+mso-level-tab-stop:18.0000pt;
 mso-level-number-position:left;
-margin-left:81.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:18.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l48:level2{
 mso-level-number-format:decimal;
@@ -3239,12 +3239,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l50:level1{
-mso-level-number-format:decimal;
+mso-level-number-format:bullet;
 mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:102.0000pt;
+mso-level-text:\F06C;
+mso-level-tab-stop:39.0000pt;
 mso-level-number-position:left;
-margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:39.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l50:level2{
 mso-level-number-format:decimal;
@@ -3383,15 +3383,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l52:level1{
-mso-level-start-at:7;
-mso-level-number-format:chinese-counting;
-mso-level-suffix:none;
-mso-level-text:"%1、";
-mso-level-tab-stop:0.0000pt;
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:\F06C;
+mso-level-tab-stop:102.0000pt;
 mso-level-number-position:left;
-margin-left:0.0000pt;text-indent:0.0000pt;margin-left:0.0000pt;
-text-indent:0.0000pt;
-font-family:'Times New Roman';}
+margin-left:102.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l52:level2{
 mso-level-number-format:decimal;
@@ -3458,12 +3455,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l53:level1{
-mso-level-number-format:bullet;
+mso-level-number-format:decimal;
 mso-level-suffix:tab;
-mso-level-text:\F06C;
-mso-level-tab-stop:18.0000pt;
+mso-level-text:"%1.";
+mso-level-tab-stop:81.0000pt;
 mso-level-number-position:left;
-margin-left:18.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+margin-left:81.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l53:level2{
 mso-level-number-format:decimal;
@@ -3674,12 +3671,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l56:level1{
-mso-level-number-format:bullet;
+mso-level-number-format:decimal;
 mso-level-suffix:tab;
-mso-level-text:\F06C;
-mso-level-tab-stop:60.0000pt;
+mso-level-text:"%1.";
+mso-level-tab-stop:102.0000pt;
 mso-level-number-position:left;
-margin-left:60.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l56:level2{
 mso-level-number-format:decimal;
@@ -3818,12 +3815,15 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l58:level1{
-mso-level-number-format:decimal;
-mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:60.0000pt;
+mso-level-start-at:7;
+mso-level-number-format:chinese-counting;
+mso-level-suffix:none;
+mso-level-text:"%1、";
+mso-level-tab-stop:0.0000pt;
 mso-level-number-position:left;
-margin-left:60.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:0.0000pt;text-indent:0.0000pt;margin-left:0.0000pt;
+text-indent:0.0000pt;
+font-family:'Times New Roman';}
 
 @list l58:level2{
 mso-level-number-format:decimal;
@@ -3893,9 +3893,9 @@ margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 mso-level-number-format:bullet;
 mso-level-suffix:tab;
 mso-level-text:\F06C;
-mso-level-tab-stop:39.0000pt;
+mso-level-tab-stop:18.0000pt;
 mso-level-number-position:left;
-margin-left:39.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+margin-left:18.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l59:level2{
 mso-level-number-format:decimal;
@@ -4109,9 +4109,9 @@ margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 mso-level-number-format:bullet;
 mso-level-suffix:tab;
 mso-level-text:\F06C;
-mso-level-tab-stop:102.0000pt;
+mso-level-tab-stop:60.0000pt;
 mso-level-number-position:left;
-margin-left:102.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+margin-left:60.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l62:level2{
 mso-level-number-format:decimal;
@@ -4178,12 +4178,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l63:level1{
-mso-level-number-format:decimal;
+mso-level-number-format:bullet;
 mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:81.0000pt;
+mso-level-text:\F06C;
+mso-level-tab-stop:18.0000pt;
 mso-level-number-position:left;
-margin-left:81.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:18.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l63:level2{
 mso-level-number-format:decimal;
@@ -4253,9 +4253,9 @@ margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 mso-level-number-format:decimal;
 mso-level-suffix:tab;
 mso-level-text:"%1.";
-mso-level-tab-stop:102.0000pt;
+mso-level-tab-stop:60.0000pt;
 mso-level-number-position:left;
-margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:60.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l64:level2{
 mso-level-number-format:decimal;
@@ -4325,9 +4325,9 @@ margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 mso-level-number-format:bullet;
 mso-level-suffix:tab;
 mso-level-text:\F06C;
-mso-level-tab-stop:60.0000pt;
+mso-level-tab-stop:39.0000pt;
 mso-level-number-position:left;
-margin-left:60.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+margin-left:39.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l65:level2{
 mso-level-number-format:decimal;
@@ -4610,12 +4610,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l69:level1{
-mso-level-number-format:decimal;
+mso-level-number-format:bullet;
 mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:60.0000pt;
+mso-level-text:\F06C;
+mso-level-tab-stop:102.0000pt;
 mso-level-number-position:left;
-margin-left:60.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:102.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l69:level2{
 mso-level-number-format:decimal;
@@ -4682,12 +4682,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l70:level1{
-mso-level-number-format:bullet;
+mso-level-number-format:decimal;
 mso-level-suffix:tab;
-mso-level-text:\F06C;
-mso-level-tab-stop:39.0000pt;
+mso-level-text:"%1.";
+mso-level-tab-stop:81.0000pt;
 mso-level-number-position:left;
-margin-left:39.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+margin-left:81.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l70:level2{
 mso-level-number-format:decimal;
@@ -4754,12 +4754,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l71:level1{
-mso-level-number-format:bullet;
+mso-level-number-format:decimal;
 mso-level-suffix:tab;
-mso-level-text:\F06C;
+mso-level-text:"%1.";
 mso-level-tab-stop:102.0000pt;
 mso-level-number-position:left;
-margin-left:102.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l71:level2{
 mso-level-number-format:decimal;
@@ -4826,12 +4826,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l72:level1{
-mso-level-number-format:decimal;
+mso-level-number-format:bullet;
 mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:81.0000pt;
+mso-level-text:\F06C;
+mso-level-tab-stop:60.0000pt;
 mso-level-number-position:left;
-margin-left:81.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:60.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l72:level2{
 mso-level-number-format:decimal;
@@ -4970,12 +4970,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l74:level1{
-mso-level-number-format:decimal;
+mso-level-number-format:bullet;
 mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:102.0000pt;
+mso-level-text:\F06C;
+mso-level-tab-stop:60.0000pt;
 mso-level-number-position:left;
-margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:60.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l74:level2{
 mso-level-number-format:decimal;
@@ -5114,15 +5114,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l76:level1{
-mso-level-start-at:10;
-mso-level-number-format:chinese-counting;
-mso-level-suffix:none;
-mso-level-text:"%1、";
-mso-level-tab-stop:0.0000pt;
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:60.0000pt;
 mso-level-number-position:left;
-margin-left:0.0000pt;text-indent:0.0000pt;margin-left:0.0000pt;
-text-indent:0.0000pt;
-font-family:'Times New Roman';}
+margin-left:60.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l76:level2{
 mso-level-number-format:decimal;
@@ -5261,12 +5258,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l78:level1{
-mso-level-number-format:decimal;
+mso-level-number-format:bullet;
 mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:60.0000pt;
+mso-level-text:\F06C;
+mso-level-tab-stop:39.0000pt;
 mso-level-number-position:left;
-margin-left:60.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:39.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l78:level2{
 mso-level-number-format:decimal;
@@ -5336,9 +5333,9 @@ margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 mso-level-number-format:bullet;
 mso-level-suffix:tab;
 mso-level-text:\F06C;
-mso-level-tab-stop:39.0000pt;
+mso-level-tab-stop:102.0000pt;
 mso-level-number-position:left;
-margin-left:39.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+margin-left:102.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l79:level2{
 mso-level-number-format:decimal;
@@ -5405,12 +5402,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l80:level1{
-mso-level-number-format:bullet;
+mso-level-number-format:decimal;
 mso-level-suffix:tab;
-mso-level-text:\F06C;
-mso-level-tab-stop:102.0000pt;
+mso-level-text:"%1.";
+mso-level-tab-stop:81.0000pt;
 mso-level-number-position:left;
-margin-left:102.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+margin-left:81.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l80:level2{
 mso-level-number-format:decimal;
@@ -5552,9 +5549,9 @@ margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 mso-level-number-format:decimal;
 mso-level-suffix:tab;
 mso-level-text:"%1.";
-mso-level-tab-stop:81.0000pt;
+mso-level-tab-stop:102.0000pt;
 mso-level-number-position:left;
-margin-left:81.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l82:level2{
 mso-level-number-format:decimal;
@@ -5624,9 +5621,9 @@ margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 mso-level-number-format:decimal;
 mso-level-suffix:tab;
 mso-level-text:"%1.";
-mso-level-tab-stop:102.0000pt;
+mso-level-tab-stop:60.0000pt;
 mso-level-number-position:left;
-margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:60.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l83:level2{
 mso-level-number-format:decimal;
@@ -5693,7 +5690,7 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l84:level1{
-mso-level-start-at:5;
+mso-level-start-at:10;
 mso-level-number-format:chinese-counting;
 mso-level-suffix:none;
 mso-level-text:"%1、";
@@ -5840,15 +5837,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l86:level1{
-mso-level-start-at:9;
-mso-level-number-format:chinese-counting;
-mso-level-suffix:none;
-mso-level-text:"%1、";
-mso-level-tab-stop:0.0000pt;
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:60.0000pt;
 mso-level-number-position:left;
-margin-left:0.0000pt;text-indent:0.0000pt;margin-left:0.0000pt;
-text-indent:0.0000pt;
-font-family:'Times New Roman';}
+margin-left:60.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l86:level2{
 mso-level-number-format:decimal;
@@ -6131,12 +6125,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l90:level1{
-mso-level-number-format:decimal;
+mso-level-number-format:bullet;
 mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:81.0000pt;
+mso-level-text:\F06C;
+mso-level-tab-stop:39.0000pt;
 mso-level-number-position:left;
-margin-left:81.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:39.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l90:level2{
 mso-level-number-format:decimal;
@@ -6206,9 +6200,9 @@ margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 mso-level-number-format:decimal;
 mso-level-suffix:tab;
 mso-level-text:"%1.";
-mso-level-tab-stop:102.0000pt;
+mso-level-tab-stop:81.0000pt;
 mso-level-number-position:left;
-margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:81.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l91:level2{
 mso-level-number-format:decimal;
@@ -6275,12 +6269,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l92:level1{
-mso-level-number-format:bullet;
+mso-level-number-format:decimal;
 mso-level-suffix:tab;
-mso-level-text:\F06C;
+mso-level-text:"%1.";
 mso-level-tab-stop:102.0000pt;
 mso-level-number-position:left;
-margin-left:102.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l92:level2{
 mso-level-number-format:decimal;
@@ -6347,12 +6341,15 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l93:level1{
-mso-level-number-format:decimal;
-mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:81.0000pt;
+mso-level-start-at:5;
+mso-level-number-format:chinese-counting;
+mso-level-suffix:none;
+mso-level-text:"%1、";
+mso-level-tab-stop:0.0000pt;
 mso-level-number-position:left;
-margin-left:81.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:0.0000pt;text-indent:0.0000pt;margin-left:0.0000pt;
+text-indent:0.0000pt;
+font-family:'Times New Roman';}
 
 @list l93:level2{
 mso-level-number-format:decimal;
@@ -6419,12 +6416,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l94:level1{
-mso-level-number-format:decimal;
+mso-level-number-format:bullet;
 mso-level-suffix:tab;
-mso-level-text:"%1.";
+mso-level-text:\F06C;
 mso-level-tab-stop:102.0000pt;
 mso-level-number-position:left;
-margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:102.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l94:level2{
 mso-level-number-format:decimal;
@@ -6491,12 +6488,15 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l95:level1{
-mso-level-number-format:decimal;
-mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:81.0000pt;
+mso-level-start-at:9;
+mso-level-number-format:chinese-counting;
+mso-level-suffix:none;
+mso-level-text:"%1、";
+mso-level-tab-stop:0.0000pt;
 mso-level-number-position:left;
-margin-left:81.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:0.0000pt;text-indent:0.0000pt;margin-left:0.0000pt;
+text-indent:0.0000pt;
+font-family:'Times New Roman';}
 
 @list l95:level2{
 mso-level-number-format:decimal;
@@ -6563,12 +6563,12 @@ mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l96:level1{
-mso-level-number-format:decimal;
+mso-level-number-format:bullet;
 mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:102.0000pt;
+mso-level-text:\F06C;
+mso-level-tab-stop:39.0000pt;
 mso-level-number-position:left;
-margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:39.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
 
 @list l96:level2{
 mso-level-number-format:decimal;
@@ -6638,9 +6638,9 @@ margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 mso-level-number-format:decimal;
 mso-level-suffix:tab;
 mso-level-text:"%1.";
-mso-level-tab-stop:102.0000pt;
+mso-level-tab-stop:81.0000pt;
 mso-level-number-position:left;
-margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+margin-left:81.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
 @list l97:level2{
 mso-level-number-format:decimal;
@@ -6705,6 +6705,737 @@ mso-level-text:"%9.";
 mso-level-tab-stop:324.0000pt;
 mso-level-number-position:left;
 margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l98:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:\F06C;
+mso-level-tab-stop:102.0000pt;
+mso-level-number-position:left;
+margin-left:102.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+
+@list l98:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l98:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l98:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l98:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l98:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l98:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l98:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l98:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l99:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:102.0000pt;
+mso-level-number-position:left;
+margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l99:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l99:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l99:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l99:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l99:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l99:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l99:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l99:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l100:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:81.0000pt;
+mso-level-number-position:left;
+margin-left:81.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l100:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l100:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l100:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l100:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l100:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l100:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l100:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l100:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l101:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:102.0000pt;
+mso-level-number-position:left;
+margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l101:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l101:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l101:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l101:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l101:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l101:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l101:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l101:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l102:level1{
+mso-level-number-format:bullet;
+mso-level-suffix:tab;
+mso-level-text:\F06C;
+mso-level-tab-stop:102.0000pt;
+mso-level-number-position:left;
+margin-left:102.0000pt;text-indent:-18.0000pt;font-family:Wingdings;}
+
+@list l102:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l102:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l102:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l102:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l102:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l102:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l102:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l102:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l103:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:81.0000pt;
+mso-level-number-position:left;
+margin-left:81.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l103:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l103:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l103:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l103:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l103:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l103:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l103:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l103:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l104:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:102.0000pt;
+mso-level-number-position:left;
+margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l104:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l104:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l104:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l104:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l104:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l104:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l104:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l104:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l105:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:81.0000pt;
+mso-level-number-position:left;
+margin-left:81.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l105:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l105:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l105:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l105:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l105:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l105:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l105:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l105:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l106:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:102.0000pt;
+mso-level-number-position:left;
+margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l106:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l106:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l106:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l106:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l106:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l106:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l106:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l106:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l107:level1{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%1.";
+mso-level-tab-stop:102.0000pt;
+mso-level-number-position:left;
+margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l107:level2{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%2.";
+mso-level-tab-stop:72.0000pt;
+mso-level-number-position:left;
+margin-left:72.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l107:level3{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%3.";
+mso-level-tab-stop:108.0000pt;
+mso-level-number-position:left;
+margin-left:108.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l107:level4{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%4.";
+mso-level-tab-stop:144.0000pt;
+mso-level-number-position:left;
+margin-left:144.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l107:level5{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%5.";
+mso-level-tab-stop:180.0000pt;
+mso-level-number-position:left;
+margin-left:180.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l107:level6{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%6.";
+mso-level-tab-stop:216.0000pt;
+mso-level-number-position:left;
+margin-left:216.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l107:level7{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%7.";
+mso-level-tab-stop:252.0000pt;
+mso-level-number-position:left;
+margin-left:252.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l107:level8{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%8.";
+mso-level-tab-stop:288.0000pt;
+mso-level-number-position:left;
+margin-left:288.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l107:level9{
+mso-level-number-format:decimal;
+mso-level-suffix:tab;
+mso-level-text:"%9.";
+mso-level-tab-stop:324.0000pt;
+mso-level-number-position:left;
+margin-left:324.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
+
+@list l108:level1{
+mso-level-start-at:6;
+mso-level-number-format:chinese-counting;
+mso-level-suffix:none;
+mso-level-text:"%1、";
+mso-level-tab-stop:none;
+mso-level-number-position:left;
+margin-left:0.0000pt;
+text-indent:0.0000pt;
+font-family:'Times New Roman';}
 
 p.MsoNormal{
 mso-style-name:正文;
@@ -6824,7 +7555,6 @@ font-family:'Times New Roman';
 
 span.17{
 font-family:'Times New Roman';
-font-weight:bold;
 }
 
 span.18{
@@ -6833,7 +7563,6 @@ font-family:'Times New Roman';
 
 span.19{
 font-family:'Times New Roman';
-font-style:italic;
 }
 
 span.20{
@@ -6842,10 +7571,12 @@ font-family:'Times New Roman';
 
 span.21{
 font-family:'Times New Roman';
+font-style:italic;
 }
 
 span.22{
 font-family:'Times New Roman';
+font-weight:bold;
 }
 
 span.23{
@@ -6854,6 +7585,23 @@ font-family:'Times New Roman';
 
 span.24{
 font-family:'Times New Roman';
+}
+
+span.25{
+font-family:'Times New Roman';
+}
+
+p.NewStyle26{
+mso-style-name:"p Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
 }
 
 p.p{
@@ -6880,32 +7628,8 @@ font-family:宋体;
 font-size:12.0000pt;
 }
 
-p.NewStyle27{
-mso-style-name:"HTML 预设格式 Char";
-margin-top:0.0000pt;
-margin-right:0.0000pt;
-margin-bottom:0.0000pt;
-margin-left:0.0000pt;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
-p.NewStyle28{
-mso-style-name:"普通\(网站\) Char Char";
-margin-top:5.0000pt;
-margin-right:0.0000pt;
-margin-bottom:5.0000pt;
-margin-left:0.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-text-align:left;
-font-family:宋体;
-font-size:12.0000pt;
-}
-
 p.NewStyle29{
-mso-style-name:"p Char";
+mso-style-name:"普通\(网站\) Char";
 margin-top:5.0000pt;
 margin-right:0.0000pt;
 margin-bottom:5.0000pt;
@@ -6918,7 +7642,29 @@ font-size:12.0000pt;
 }
 
 p.NewStyle30{
-mso-style-name:"普通\(网站\) Char";
+mso-style-name:"HTML 预设格式 Char Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.NewStyle31{
+mso-style-name:"HTML 预设格式 Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.NewStyle32{
+mso-style-name:"普通\(网站\) Char Char";
 margin-top:5.0000pt;
 margin-right:0.0000pt;
 margin-bottom:5.0000pt;
@@ -6970,4 +7716,4 @@ margin-right:36.0000pt;
 size:841.9500pt 595.3500pt;
 mso-page-orientation:landscape;
 }
-div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt; " ><!--StartFragment--><div class="Section0" ><p class=NewStyle30  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;" >珠峰培训js免费课考试题(加强版)，题目稍微加大难度，请认真作答~</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle30  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,0,0);font-weight:bold;font-size:15.0000pt;" >一、基础知识填空</span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(255,0,0);font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle30  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JS中的数据类型包含哪些(要求详细)以及基本数据类型和引用数据类型的本质区别：__________________</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle30  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JS中如何的检测数据类型(写出四种方法)：_____________________&nbsp;&nbsp;&nbsp;JS中判断某个值是否是一个有效数字的方法是：_______________&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle30  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;想要接收函数执行的时候传递的参数，都可以如何的处理：_______________&nbsp;&nbsp;&nbsp;&nbsp;将其他的数据类型转化为number类型的方式有那些：________________</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle30  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,0,0);font-weight:bold;font-size:15.0000pt;" >二、写出DOM中常用的方法和属性</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,0,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有一个div:&#60;div&nbsp;&nbsp;class=&#8221;w&#8221;name=&#8221;h&#8221;id=&#8221;div1&#8221;&#62;&#60;/div&#62;我想获取这</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,0,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >一个</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >div你有几种解决办法(不考虑兼容)：__________&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;获取当前浏览器屏幕的宽度和高度(兼容所有的浏览器)：_______________&nbsp;&nbsp;&nbsp;&nbsp;获取上一个哥哥</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,0,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >元素</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >节点（兼容所有的浏览器）:&nbsp;________________</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;动态创建一个div标签，并且添加到body的最后面位置：_______________&nbsp;&nbsp;&nbsp;&nbsp;继续上一题，把刚才创建的克隆一份一模一样的，添加到刚才创建的div前面：______________</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle30  style="mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,0,0);font-weight:bold;font-size:15.0000pt;" >三、数组的基础知识和应用</span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(255,0,0);font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle30  style="mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我想删除数组中的最后一项，至少写出两种办法：___</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >ary.length--</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >____&nbsp;______________&nbsp;&nbsp;&nbsp;&nbsp;我想在数组的末尾增加一个元素，至少写出两种办法：__________________</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle30  style="mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;基于原来的数组复制一份一模一样新的数组，不考虑原有数组是否改变的情况，请写出至少三种方案：&nbsp;_____________________</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle30  style="mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数组从小到大排序(可以处理10以上的数字)：______________________&nbsp;&nbsp;&nbsp;&nbsp;实现找到</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,0,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >第n项</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >到</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,0,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >第m项</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >的内容，返回一个新的数组(原有数组不变)：______________</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle30  style="mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,0,0);font-weight:bold;font-size:15.0000pt;" >四、写出下面表达式的运算结果</span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(255,0,0);font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle30  style="mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9;[]==false：________</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >true</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >____&nbsp;&nbsp;&nbsp;&nbsp;![]==false：______</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >true</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >______&nbsp;&nbsp;&nbsp;[]==![]：_______</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >true</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >_______&nbsp;&nbsp;&nbsp;Number(&#8220;13px&#8221;)==NaN：____</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >true</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >______&nbsp;&nbsp;5+&#8221;3&#8221;-2：__________</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >51</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >_________</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle30  style="margin-left:0.0000pt;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >If(&#8220;3px&#8221;*3){alert(&#8220;true&#8221;)}else{alert(&#8220;false&#8221;)}：____</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >false</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >________&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If(&#8220;3px&#8221;+3){alert(&#8220;true&#8221;)}else{alert(&#8220;false&#8221;)}：____</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >true</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >_______</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle30  style="margin-left:0.0000pt;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >If（document.body）{alert(&#8220;ok&#8221;);}else{alert(&#8220;no&#8221;)}：_______________&nbsp;&nbsp;&nbsp;alert([])：______________&nbsp;&nbsp;&nbsp;&nbsp;null==undefined：________________</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle27  style="margin-right:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >五、已知一个数组为：var&nbsp;ary=[12,23,23,12,24,34,34,23,34,5,21,2];&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle27  style="margin-right:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我想把重复的项去掉，然后在按照从大到小排序，原有的数组是不改变的，请用你认为最优的方式实现！(不得使用sort方法)</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" >六、写一个方法sum来实现任意数求和的功能(说明：任意数求和指的是，在方法执行的时候，不管传多少个数字，都可以累加求和)</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、实现基础的要求+6分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、把求和结果返回到函数外面，在外面接收的+2分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、对于非有效数字可以过滤掉，不进行累加求和+2分</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" >七、实现一个方法getRandom来实现获取n到m之间的随机整数(包含n和m)</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >1、实现基本功能+6分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、如果n或者m没有传递参数，或者传递的不是有效的数字，则返回的是[0-1)之间的随机小数+2分&nbsp;&nbsp;&nbsp;&nbsp;3、如果传递的n的值大于m的值，让n和m交换数值+2分</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >八、</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&#60;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,128);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >input&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >type=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"button"&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >value=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"按钮1"</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >/&#62;&#60;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,128);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >input&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >type=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"button"&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >value=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"按钮2"</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >/&#62;&#60;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,128);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >input&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >type=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"button"&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >value=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"按钮3"</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >/&#62;&#60;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,128);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >input&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >type=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"button"&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >value=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"按钮4"</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >/&#62;&#60;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,128);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >input&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >type=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"button"&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >value=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"按钮5"</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >/&#62;&nbsp;&nbsp;&nbsp;&nbsp;var&nbsp;ary=[&#8220;red&#8221;,&#8221;yellow&#8221;,&#8221;pink&#8221;,&#8221;green&#8221;,&#8221;blue&#8221;];</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle27  style="mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="17"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;" >以上是页面中的5个按钮，和一个存储五个颜色值的数组，要求实现一个方法bindEvent，循环给5个按钮绑定点击事件，当点击的时候，整个body的背景颜色正好可以和数组中的指定项颜色对应(例如：点击第三个按钮，body的背景颜色&#8221;pink&#8221;)，请按照你的思路来实现?</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle27  style="mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle27  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;mso-para-margin-right:0.0000gd;text-indent:0.0000pt;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;mso-list:l86 level1 lfo1;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><span style='mso-list:Ignore;' >九、</span></span><![endif]><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >var&nbsp;ary=[1,2,3,4];</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle27  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;function&nbsp;fn(ary){</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle27  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:21.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >ary[0]=0;&nbsp;&nbsp;&nbsp;&nbsp;ary=[0];&nbsp;&nbsp;&nbsp;&nbsp;ary[0]=100;&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;ary;&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle27  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle27  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;var&nbsp;res=fn(ary);&nbsp;&nbsp;&nbsp;&nbsp;console.log(ary);&nbsp;&nbsp;&nbsp;&nbsp;console.log(res);&nbsp;&nbsp;&nbsp;//此题偏难，认真思考(360面试题难度降低版本代码)</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle27  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle27  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle27  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle27  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle27  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></div><!--EndFragment--></body></html>
+div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt; " ><!--StartFragment--><div class="Section0" ><p class=NewStyle29  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;" >珠峰培训js免费课考试题(加强版)，题目稍微加大难度，请认真作答~</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle29  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,0,0);font-weight:bold;font-size:15.0000pt;" >一、基础知识填空</span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(255,0,0);font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle29  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JS中的数据类型包含哪些(要求详细)以及基本数据类型和引用数据类型的本质区别：</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >引用数据类型</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >:对象类型；基本数据类型：布尔、number、string</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >__________________</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle29  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JS中如何的检测数据类型(写出四种方法)：_____________________&nbsp;&nbsp;&nbsp;JS中判断某个值是否是一个有效数字的方法是：_______________&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle29  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;想要接收函数执行的时候传递的参数，都可以如何的处理：_______________&nbsp;&nbsp;&nbsp;&nbsp;将其他的数据类型转化为number类型的方式有那些：________________</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle29  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,0,0);font-weight:bold;font-size:15.0000pt;" >二、写出DOM中常用的方法和属性</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,0,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有一个div:&#60;div&nbsp;&nbsp;class=&#8221;w&#8221;name=&#8221;h&#8221;id=&#8221;div1&#8221;&#62;&#60;/div&#62;我想获取这</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,0,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >一个</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >div你有几种解决办法(不考虑兼容)：</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >document.getElementById()</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >document.getElementsByTageName()[0]</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >document.getElementsByName()[0]</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >document.getElementsName()[0]</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >document.querySelectorAll(</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&#8220;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >.w</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&#8221;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >)[0]</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >document.querySelectorAll(</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&#8220;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >name=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&#8217;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >h</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&#8217;&#8221;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >)</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >__</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >document.querySelectorAll(</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&#8220;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >div</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&#8221;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >)</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >________&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;获取当前浏览器屏幕的宽度和高度(兼容所有的浏览器)：_</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >document.documentElement.clientWidth&nbsp;||&nbsp;document.doucumentElement.clientHeight</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >doucument.body.clientWidth&nbsp;||&nbsp;document.body.clientHeight</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >_____________&nbsp;&nbsp;&nbsp;&nbsp;获取上一个哥哥</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,0,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >元素</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >节点（兼容所有的浏览器）:&nbsp;_</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >previousElementSibling</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >_______</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >previousSibling</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >________</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;动态创建一个div标签，并且添加到body的最后面位置：_______________&nbsp;&nbsp;&nbsp;&nbsp;继续上一题，把刚才创建的克隆一份一模一样的，添加到刚才创建的div前面：______________</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle29  style="mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,0,0);font-weight:bold;font-size:15.0000pt;" >三、数组的基础知识和应用</span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(255,0,0);font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle29  style="mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我想删除数组中的最后一项，至少写出两种办法：___ary.length--___</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >ary.pop()&nbsp;;ary.splice(ary.length-1,1)</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >_&nbsp;______________&nbsp;&nbsp;&nbsp;&nbsp;我想在数组的末尾增加一个元素，至少写出两种办法：_</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >ary.push(</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&#8220;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >zu</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&#8221;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >);ary[ary.length]=zu</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&#8221;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >ary.splice(ary.length,0,&#8216;zf&#8217;)</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >_________________</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle29  style="mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;基于原来的数组复制一份一模一样新的数组，不考虑原有数组是否改变的情况，请写出至少三种方案：&nbsp;__</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >ary.splice()/ary.slice(0)&nbsp;ary.concat()&nbsp;ary.splice(0)</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >___________________</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle29  style="mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数组从小到大排序(可以处理10以上的数字)：_</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >ary.sort(function(a,b){a-b})</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >_____________________&nbsp;&nbsp;&nbsp;&nbsp;实现找到</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,0,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >第n项</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >到</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,0,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >第m项</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >的内容，返回一个新的数组(原有数组不变)：_</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >ary.slice(n-1,m)</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >_____________</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle29  style="mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,0,0);font-weight:bold;font-size:15.0000pt;" >四、写出下面表达式的运算结果</span><span style="mso-spacerun:'yes';font-family:宋体;color:rgb(255,0,0);font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle29  style="mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9;[]==false：________true____&nbsp;&nbsp;&nbsp;&nbsp;![]==false：______true______&nbsp;&nbsp;&nbsp;[]==![]：_______true_______&nbsp;&nbsp;&nbsp;Number(&#8220;13px&#8221;)==NaN：____</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >false</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >___&nbsp;&nbsp;5+&#8221;3&#8221;-2：__________51_________</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle29  style="margin-left:0.0000pt;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >If(&#8220;3px&#8221;*3){alert(&#8220;true&#8221;)}else{alert(&#8220;false&#8221;)}：____false________&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If(&#8220;3px&#8221;+3){alert(&#8220;true&#8221;)}else{alert(&#8220;false&#8221;)}：____true_______</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle29  style="margin-left:0.0000pt;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >If（document.body）{alert(&#8220;ok&#8221;);}else{alert(&#8220;no&#8221;)}：_______________&nbsp;&nbsp;&nbsp;alert([])：______________&nbsp;&nbsp;&nbsp;&nbsp;null==undefined：________________</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-right:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >五、已知一个数组为：var&nbsp;ary=[12,23,23,12,24,34,34,23,34,5,21,2];&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-right:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我想把重复的项去掉，然后在按照从大到小排序，原有的数组是不改变的，请用你认为最优的方式实现！(不得使用sort方法)</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-right:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;var&nbsp;&nbsp;ary=[12,4,6,8,22,44,4,6,22,44,44,22];</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-right:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;Var&nbsp;obj&nbsp;=&nbsp;{}</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >for&nbsp;(var&nbsp;i&nbsp;=&nbsp;0;i&#60;ary.length;i++){</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >var&nbsp;cur&nbsp;=&nbsp;ary[i]</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-right:0.0000pt;margin-left:21.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >obj[cur]=cur;</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >}</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >for(key&nbsp;in&nbsp;value){</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ary.length&nbsp;=&nbsp;obj[key];</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >}</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-right:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;mso-list:l108 level1 lfo1;" ><![if !supportLists]><span style="font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" ><span style='mso-list:Ignore;' >六、</span></span><![endif]><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" >写一个方法sum来实现任意数求和的功能(说明：任意数求和指的是，在方法执行的时候，不管传多少个数字，都可以累加求和)</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" >&nbsp;&nbsp;&nbsp;function&nbsp;sum(n)&nbsp;{</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if&nbsp;(n&nbsp;===&nbsp;0)&nbsp;{</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;0;</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if&nbsp;(n&nbsp;%&nbsp;3&nbsp;===&nbsp;0)&nbsp;{</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;sum(n&nbsp;-&nbsp;1);</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;n&nbsp;+&nbsp;sum(n&nbsp;-&nbsp;1);</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;var&nbsp;total&nbsp;=&nbsp;sum(10);</span><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;mso-para-margin-right:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、实现基础的要求+6分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、把求和结果返回到函数外面，在外面接收的+2分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、对于非有效数字可以过滤掉，不进行累加求和+2分</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;" >七、实现一个方法getRandom来实现获取n到m之间的随机整数(包含n和m)</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >1、实现基本功能+6分&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、如果n或者m没有传递参数，或者传递的不是有效的数字，则返回的是[0-1)之间的随机小数+2分&nbsp;&nbsp;&nbsp;&nbsp;3、如果传递的n的值大于m的值，让n和m交换数值+2分</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:21.0000pt;mso-para-margin-left:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >fuction&nbsp;getRandom(n,m){</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:42.0000pt;mso-para-margin-left:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >n&nbsp;=&nbsp;Number(n);</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:42.0000pt;mso-para-margin-left:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >m&nbsp;=&nbsp;&#9;Number(m);</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:42.0000pt;mso-para-margin-left:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >If(isNaN(n)&nbsp;||&nbsp;isNan(m)){</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:63.0000pt;mso-para-margin-left:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >Return&nbsp;Math&nbsp;radom();</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:21.0000pt;mso-para-margin-left:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >}</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:21.0000pt;mso-para-margin-left:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >If(n&#62;m){</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:21.0000pt;mso-para-margin-left:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >n=n+m</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:21.0000pt;mso-para-margin-left:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >M=n-m;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:21.0000pt;mso-para-margin-left:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >N&nbsp;=n-m;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:21.0000pt;mso-para-margin-left:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >}</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:21.0000pt;mso-para-margin-left:0.0000gd;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >Return&nbsp;Math.round(Math.radom()*(m-n)+n)</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(255,102,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >八、</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&#60;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,128);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >input&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >type=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"button"&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >value=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"按钮1"</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >/&#62;&#60;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,128);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >input&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >type=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"button"&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >value=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"按钮2"</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >/&#62;&#60;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,128);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >input&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >type=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"button"&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >value=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"按钮3"</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >/&#62;&#60;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,128);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >input&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >type=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"button"&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >value=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"按钮4"</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >/&#62;&#60;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,128);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >input&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >type=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"button"&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,0,255);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >value=</span><span style="mso-spacerun:'yes';font-family:微软雅黑;color:rgb(0,128,0);font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >"按钮5"</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >/&#62;&nbsp;&nbsp;&nbsp;&nbsp;var&nbsp;ary=[&#8220;red&#8221;,&#8221;yellow&#8221;,&#8221;pink&#8221;,&#8221;green&#8221;,&#8221;blue&#8221;];</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span class="22"  style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;" >以上是页面中的5个按钮，和一个存储五个颜色值的数组，要求实现一个方法bindEvent，循环给5个按钮绑定点击事件，当点击的时候，整个body的背景颜色正好可以和数组中的指定项颜色对应(例如：点击第三个按钮，body的背景颜色&#8221;pink&#8221;)，请按照你的思路来实现?</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >j</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;mso-para-margin-right:0.0000gd;text-indent:0.0000pt;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;mso-list:l95 level1 lfo2;" ><![if !supportLists]><span style="font-family:'Times New Roman';mso-fareast-font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><span style='mso-list:Ignore;' >九、</span></span><![endif]><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >var&nbsp;ary=[1,2,3,4];</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;function&nbsp;fn(ary){</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:21.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-indent:21.0000pt;mso-char-indent-count:0.0000;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >ary[0]=0;&nbsp;&nbsp;&nbsp;&nbsp;ary=[0];&nbsp;&nbsp;&nbsp;&nbsp;ary[0]=100;&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;ary;&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;var&nbsp;res=fn(ary);&nbsp;&nbsp;&nbsp;&nbsp;console.log(ary);&nbsp;&nbsp;&nbsp;&nbsp;console.log(res);&nbsp;&nbsp;&nbsp;//此题偏难，认真思考(360面试题难度降低版本代码)</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle31  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;mso-para-margin-right:0.0000gd;mso-pagination:widow-orphan;text-align:left;line-height:21.0000pt;" ><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:微软雅黑;font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></div><!--EndFragment--></body></html>
