@@ -93,6 +93,13 @@
     //            tabChange(this.index);
     //        }
     //    }
+    for(var i = 0; i < oLis.length;i++){
+        oLis[i].index = i;
+        oLis[i].onClick=function(){
+            tabChange(this.index);
+        }
+    }
+
 
     //2、使用闭包->画图并且分析为什么可以
     //    for (var i = 0; i < oLis.length; i++) {
@@ -103,13 +110,14 @@
     //        })(i);
     //    }
 
-    for (var i = 0; i < oLis.length; i++) {
-        oLis[i].onclick = (function (i) {
-            return function () {
+    for(var i = 0;i < oLis.length;i++){
+        (function(i){
+            return function(){
                 tabChange(i);
             }
-        })(i);
+        }(i))
     }
+
 </script>
 </body>
 </html>

@@ -36,6 +36,24 @@
     ary.myDistinct().push(100);
     console.log(ary);
 
+    Array.prototype.myDistinct = function myDistinct(){
+        var obj = {};
+        for(var i = 0;i<thi.length;i++){
+            var cur = this[i];
+            if(obj[cur]==cur){
+                this[i]=this[this.length-1];
+                this.length--;
+                i--;
+                coutinue;
+            }
+            obj[cur] = cur;
+        }
+        obj = null;
+        return this;
+    };
+    ary.myDistict().push(100);
+    console.log(ary);
+
 
 
 </script>
