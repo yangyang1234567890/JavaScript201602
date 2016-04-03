@@ -19,6 +19,7 @@ var utils = (function () {
             }
             return ary;
         },
+
         /*
          * formatJSON:Converts a string of JSON format to an object in the JSON format
          * @parameter:
