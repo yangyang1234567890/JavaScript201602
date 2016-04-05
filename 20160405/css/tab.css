@@ -1,0 +1,56 @@
+@charset "utf-8";
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    -webkit-user-select: none;
+}
+
+.box {
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin:-128px 0 0 -221px;
+    padding: 20px;
+    width: 400px;
+    border: 2px dashed darkcyan;
+    border-radius: 15px;
+    box-shadow: 3px 3px 10px 0 grey;
+}
+
+.box table {
+    /*border-collapse: collapse;*//*去除单元格个单元格之间的空隙*/
+}
+
+.box thead tr {
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    background: cornflowerblue;
+}
+
+.box thead tr th {
+    width: 100px;
+    color: #fff;
+    box-shadow: 2px 2px 5px 0 lightblue;
+    border-right:2px dashed #fff;
+}
+
+.box thead tr th.cursor {
+    cursor: pointer;
+}
+
+.box tbody tr {
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.box tbody tr td {
+    width: 100px;
+}
+
+.box tbody tr.bg {
+    background: lightblue;
+}
+

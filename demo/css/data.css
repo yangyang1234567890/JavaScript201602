@@ -1,0 +1,42 @@
+@charset "utf-8";
+*{
+	margin:0;
+	padding:0;
+	fonnt-size:16px;
+	-webkit-user-select: none;
+}
+.box{
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin:-119px 0 0 -277px;
+	width:500px;
+	padding:20px;
+	border:2px dashed gray;
+	box-shadow: 3px 3px 10px 0 grey;
+}
+.box table{
+	width:100%;
+}
+
+.box thead tr{
+	height:35px;
+	line-height:35px;
+	text-align:center;
+	background: cornflowerblue;   
+}
+.box thead tr th{
+	 color: #fff;
+	 box-shadow:2px 2px 5px 0 cornflowerblue;
+
+}
+ .box thead tr th.cursor{
+ 	 cursor:pointer;
+ }
+.box tbody tr{
+	text-align:center;
+	line-height:40px;
+}
+.box tbody tr.bg{
+	background:lightblue;
+}
