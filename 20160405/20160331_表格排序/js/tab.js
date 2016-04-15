@@ -18,6 +18,7 @@ var jsonData = null;
     xhr.send(null);
 }();
 
+
 //2、绑定数据
 ~function () {
     var frg = document.createDocumentFragment();
@@ -36,6 +37,7 @@ var jsonData = null;
     tBody.appendChild(frg);
     frg = null;
 }();
+
 
 //3、实现奇数行和偶数行变颜色
 function changeBg() {

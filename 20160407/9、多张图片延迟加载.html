@@ -94,7 +94,7 @@
         };
         xhr.send(null);
     }();
-
+  
     //->2、实现数据绑定
     ~function () {
         var str = "";
@@ -110,6 +110,16 @@
         }
         news.innerHTML = str;
     }();
+
+    ~function(){
+        var str = "";
+        for(var i=0;len = jsonData.length;i<len;i++){
+            var curData = jsonData[i];
+            str+="<li>";
+            str+="<div><img src='' zhufengImg='"+curData["img"]+"'/></div>";
+            str+="</li>";
+        }
+    }
 
     //->3、实现图片的延迟加载
     function lazyImg(curImg) {//->curImg当前要延迟的那个图片
@@ -133,16 +143,40 @@
             }
         }
     }
-
+}
     //->让所有的图片都调取lazyImg这个方法实现图片的延迟加载
     function handleAllImg() {
         for (var i = 0, len = imgList.length; i < len; i++) {
             lazyImg(imgList[i]);
         }
     }
-
     window.setTimeout(handleAllImg, 1000);
     window.onscroll = handleAllImg;
+
+    function handleAllImg(){
+        for(var i = 0)
+    }
+    
+    // var ary=[];
+    
+    // for(var i=0;i<20;i++){
+    //     var obj={"img":"imge/"+Math.round(Math.random()*3+1)+".jpg","age":Math.round(Math.random()*3+1)};
+
+    //      var str=JSON.stringify(obj);
+    //     ary.push(str);
+    // }
+    // console.log(ary);
+
+    // var ary=[];
+    // for(var i=0;i<10;i++){
+    //     var obj={"img":"img/"+Math.round(Math.random()*9+1)+".jpg","title":"网络强国战略习近平与“十三五”十四大战略","desc":"互联网是二十世纪人类最大的发明互联网是二十世纪."};
+
+    //     ary.push(obj);
+    // }
+    // var str=JSON.stringify(ary);
+    // console.log(str);
+
+
 </script>
 </body>
 </html>

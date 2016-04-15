@@ -41,7 +41,7 @@ var utils = (function () {
         document.documentElement[attr] = value;
         document.body[attr] = value;
     }
-
+f
     //->getCss:获取元素的样式值
     function getCss(curEle, attr) {
         var val = null, reg = null;

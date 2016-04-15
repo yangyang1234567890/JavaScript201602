@@ -85,6 +85,7 @@
             <p>互联网是二十世纪人类最大的发明互联网是二十世纪.</p>
         </div>
     </li>-->
+
 </ul>
 
 <script type="text/javascript" src="js/utils.js"></script>
@@ -124,6 +125,7 @@
         news.innerHTML = str;
     }();
 
+
     //3、图片延迟加载
     //->我先编写一个方法,实现单张图片的延迟加载
     function lazyImg(curImg) {
@@ -154,10 +156,11 @@
         }, interval);
     }
 
+ 
     //->循环处理每一张图片
     function handleAllImg() {
         for (var i = 0, len = imgList.length; i < len; i++) {
-            var curImg = imgList[i];
+             var curImg = imgList[i];
 
             //->当前的图片处理过的话,就不需要在重新的进行处理了
             if (curImg.isLoad) {

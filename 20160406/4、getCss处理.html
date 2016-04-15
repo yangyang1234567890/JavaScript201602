@@ -51,6 +51,8 @@
     //        }
     //        //->去除单位需要加格式判断,有的能去,有的值不能去
     //        reg = /^(-?(\d|([1-9]\d+))(\.\d+)?)(px|pt|em|rem)?$/;
+
+
     //        return reg.test(val) ? parseFloat(val) : val;
     //    }
     //    console.log(getCss(box, "width"));//->200
@@ -76,6 +78,40 @@
         return reg.test(val) ? parseFloat(val) : val;
     }
     console.log(getCss(box, "opacity"));
+
+    function getCss(curEle,attr){
+        var val=null,reg=null;
+        if("getComputedStyle" in window){
+            val=window.getComputedStyle(curEle,null)[attr];
+        }else{
+            if(attr === "opacity"){
+                val=curEle.crrentStyle["filter"];
+                reg = /^alpha\(opacity=(\d+(?:\.\d+)?)\)$/;
+                val = reg.test(val)?reg.exec(val)[1]/100:1;
+            }else{
+                val= curEle.currentStyle[attr];
+            }         
+        }
+        reg=/^(-?(\d|[1-9]\d+))(\.\d+)(px|em|rem|pt)$/
+        return reg.test(val)?parseFloat(val):val;
+    }
+    console.log(getCSS(box,opacity));
+
+    function getCss(curEle,attr){
+        var val=null; reg=null;
+        if("getComputedStyle" in window){
+            val=window.getComputedStyle(curEle,null)[attr];
+        }else{
+            if(attr==="opcity"){
+                val=curEle.currentStyle["filter"];
+                reg = /^alpha\(opacity=(\d+(?:)))$/;
+                val =reg.test(val)?reg.exec(val)[1]/100:1;
+
+            }
+        }
+        reg=
+        return
+    }
 </script>
 </body>
 </html>
