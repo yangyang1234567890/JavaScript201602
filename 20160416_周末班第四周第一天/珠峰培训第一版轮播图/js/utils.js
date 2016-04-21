@@ -180,7 +180,7 @@ var utils = (function () {
     }
 
 
-    //->hasClass:验证当前元素中是否包含className这个样式类名
+//    ->hasClass:验证当前元素中是否包含className这个样式类名
     function hasClass(curEle, className) {
         var reg = new RegExp("(^| +)" + className + "( +|$)");
         return reg.test(curEle.className);
@@ -275,13 +275,13 @@ var utils = (function () {
     }
 
     //->setGroupCss:给当前元素批量的设置样式属性值
-    function setGroupCss(options) {
-        for (var key in options) {
-            if (options.hasOwnProperty(key)) {
-                setCss.call(this, key, options[key]);
-            }
-        }
-    }
+//  function setGroupCss(options) {
+//      for (var key in options) {
+//          if (options.hasOwnProperty(key)) {
+//              setCss.call(this, key, options[key]);
+//          }
+//      }
+//  }
 
     //->css:此方法实现了获取、单独设置、批量设置元素的样式值
     function css(curEle) {

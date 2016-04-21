@@ -63,14 +63,14 @@
     //4、实现自动轮播
     //->记录的是步长(当前是哪一张图片,零是第一张图片)
     var step = 0, interval = 1000, autoTimer = null;
-    autoTimer = window.setInterval(autoMove, interval);
+    autoTimer = window.setInterval(autgboMove, interval);
     function autoMove() {
         if (step >= (count - 1)) {
             step = 0;
             bannerInner.style.left = 0;
         }
         step++;
-        zhufengAnimate(bannerInner, {left: -step * 1000}, 500);
+        zhufengAnimate(bannerIn;ner, {left: -step * 1000}, 500);
         changeTip();
     }
 
@@ -104,7 +104,7 @@
                 zhufengAnimate(bannerInner, {left: -step * 1000}, 500);
             }
         }
-    }();
+    }(); 
 
     //8、实现左右切换
     bannerRight.onclick = autoMove;
@@ -117,4 +117,6 @@
         zhufengAnimate(bannerInner, {left: -step * 1000}, 500);
         changeTip();
     }
+
 })();
+
